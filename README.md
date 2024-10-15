@@ -1,25 +1,56 @@
-<h1 align="center"># Olá, Eu sou Pedro Fernandes (Pavanelli)</h1>
-<h3 align="center">Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Meu foco atual está em criar soluções que combinem **educação financeira** e **tecnologia**, especialmente no espaço de **criptomoedas** e **desenvolvimento web**.</h3>
+# 🏄‍♂️ Pedro Fernandes (Pavanelli)
 
-- 🔭 I’m currently working on [Desafio XYZ - Hackathon](https://github.com/Hitice/Desafio-XYZ)
+**`Artífice Digital (Desenvolvedor/Designer/Maker)`**
 
-- 🌱 I’m currently learning **- **Laravel**: Desenvolvimento de aplicações web. - **PHP**: Aprimorando habilidades em backend. - **MySQL**: Gerenciamento de banco de dados. - **Full-Stack Development**: Expandindo conhecimentos em tecnologias frontend e backend.**
+Sou um desenvolvedor full-stack independente, designer gráfico e criador de conteúdo, construindo minha versão do mundo digital passo a passo. Todos os projetos de codificação são feitos do zero, desde o planejamento e design até a resolução de problemas da vida real com código. Além disso, dedico-me à criação de projetos em **CNC**, combinando design e tecnologia para trazer ideias à vida. Todo o conteúdo de vídeo é produzido da mesma maneira, desde a ideação e planejamento até a finalização com toques artísticos. Publico esse conteúdo no meu canal do YouTube "[Cortes Da Vinci](https://www.youtube.com/@cortesdavinci)". 
 
-- 👯 I’m looking to collaborate on [Um projeto inovador para desenvolver o **Kids Wallet App**, que ensina crianças sobre finanças e criptomoedas.](https://github.com/Hitice/PrivateKey-Search)
+Como estudante de programação constante, estou sempre aprendendo novas linguagens e ferramentas para aprimorar minhas habilidades e expandir meu conhecimento.
 
-- 💬 Ask me about **- Criptomoedas e integração com blockchain. - Desenvolvimento em Laravel, PHP, e MySQL. - Estruturas MVC e melhores práticas de codificação.**
-
-- 📫 How to reach me **- Email: [adm.nuvem@protonmail.com](mailto:adm.nuvem@protonmail.com)**
-
-- ⚡ Fun fact **I think I am funny. maybe**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/pedrohenri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/pedrohenri/" height="30" width="40" /></a>
-<a href="https://instagram.com/dren.rick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dren.rick" height="30" width="40" /></a>
+   <a href="https://www.youtube.com/@cortesdavinci?sub_confirmation=1">
+      <img alt="youtube subscribers" title="Inscreva-se no meu canal do YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=INSCRITOS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   <a href="https://www.youtube.com/@cortesdavinci">
+      <img alt="youtube views" title="Visualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+   <a href="https://github.com/hitice?tab=followers">
+      <img alt="followers" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/hitice?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguir&logoColor=white"/></a>
+   <a href="https://github.com/hitice?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hitice?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitice&show_icons=true&locale=en&layout=compact" alt="hitice" /></p>
+### 🧰 Linguagens e Ferramentas
+
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-2.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br />
+
+#
+
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Inscreva-se%20Para%20Mais-vermelho?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@cortesdavinci?sub_confirmation=1)
+
+#
+
+### 📊 Estatísticas
+
+![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=hitice&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=hitice&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 A Jornada de Programação do Pedro</h3></summary>
+   Minha jornada de programação começou como um estudante ingênuo de ciência da computação com a paixão de aprender tudo que eu pudesse sobre esse mundo da programação - código, unix, linux, teoria. E ao mesmo tempo, ensinando a mim mesmo o desenvolvimento iOS com o sonho de construir meu próprio aplicativo, mas isso logo foi ofuscado pelo meu desejo de me destacar em PHP e Laravel. Um desejo que me rendeu um emprego como engenheiro de software full-stack após a graduação. No entanto, sempre tive outro desejo que estava perseguindo durante todo esse tempo - a criação de conteúdo no YouTube. Eventualmente, acabei deixando meu emprego de engenharia de software para me dedicar ao YouTube em tempo integral, e esse tem sido meu foco desde então. Mas há algo que sempre me incomodou sobre minha jornada - abandonar meu sonho de construir meu próprio aplicativo para seguir o caminho seguro de um emprego. Agora, já tomei o salto para fora daquela rede de segurança em direção a esse mundo desconhecido e desconfortável que é ser criador. E funcionou, mas novamente, tornou-se confortável. É mais fácil criar um vídeo do que sair e construir meu próprio produto. Eu preciso comer, no final do dia, mas acho que é hora. É hora de ficar desconfortável novamente. Tenho um desejo ardente de voltar a trabalhar e realizar aquele sonho que eu tinha na juventude de construir meu próprio aplicativo, meu próprio produto. E para fazer isso, vou implementar algumas medidas para otimizar meu conteúdo no YouTube e dedicar mais tempo para realizar esse sonho - um sonho que estarei pronto para enfrentar em 2023 devido às medidas que estou implementando agora até o final de 2022. Não me espere, porque eu estou voltando.
+-->
+[website]: https://hitice.github.io
+[youtube]: https://www.youtube.com/@cortesdavinci
