@@ -21,10 +21,7 @@ Como estudante de programação constante, estou sempre aprendendo novas linguag
 
 <br />
 
-#
 
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Inscreva-se%20Para%20Mais-vermelho?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/cortesdavinci?sub_confirmation=1)
 
 
 #
