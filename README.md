@@ -6,11 +6,6 @@ Sou um desenvolvedor full-stack independente, designer gráfico e criador de con
 
 Como estudante de programação constante, estou sempre aprendendo novas linguagens e ferramentas para aprimorar minhas habilidades e expandir meu conhecimento.
 
-<p align="left">
-   <a href="https://www.youtube.com/@cortesdavinci?sub_confirmation=1">
-
-   </a>
-</p>
 
 
 ---
@@ -35,4 +30,4 @@ Como estudante de programação constante, estou sempre aprendendo novas linguag
 #
 
 [website]: https://hitice.github.io
-[youtube]: https://www.youtube.com/@cortesdavinci
+[youtube]: https://www.youtube.com/cortesdavinci
