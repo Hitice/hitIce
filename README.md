@@ -1,12 +1,75 @@
-🏄‍♂️ Pedro Fernandes (Pavanelli)
-Digital Artisan (Developer/Designer/Maker)
+<!-- README de perfil GitHub - estilo Terminal Dark -->
 
-I’m an independent full-stack developer, graphic designer, and creator, building my own version of the digital world step by step. I take pride in crafting all projects from scratch, handling everything from planning and design to solving real-world problems with code. Beyond coding, I also specialize in CNC projects, merging design and technology to bring creative ideas to life.
+# 👾 Hitice (Pavanelli)
 
-My video production follows the same hands-on approach—from ideation and planning to delivering polished, engaging content. I share these creations on my YouTube channel, Cortes Da Vinci.
+> _"Driven by code, powered by curiosity."_  
+> Full-stack developer • Maker • Designer • Hacker mindset
 
-As a lifelong learner, I’m always exploring new programming languages, tools, and creative processes to expand my knowledge and elevate my skillset.
+---
 
-🛠️ Skills and Tools
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <br />
-Website | www.youtube.com/@cortesdavinci
+```bash
+# whoami
+> Hitice@github:~$ cat profile.txt
+
+🧠 Developer focused on automation, embedded systems, and clean architecture.
+🧩 Experience with web, mobile, and IoT environments.
+🚀 Currently building projects with Ionic + Angular + Node.js.
+🔐 Passionate about cryptography, CNC fabrication, and open-source technology.
+```
+
+---
+
+```bash
+# skills --list
+Frontend:  Angular / Ionic / TypeScript / HTML / CSS
+Backend:   Node.js / PHP / Python / Express
+Database:  MySQL / SQLite / MongoDB
+Tools:     Git / Linux / Bash / Docker / VSCode
+```
+
+---
+
+### 💻 Main Tools & Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+
+---
+
+```bash
+# stats
+> Fetching GitHub stats...
+```
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Hitice&show_icons=true&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitice&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+```bash
+# contact --show
+Email:    adm.nuvem@protonmail.com
+Telegram: @Hitice
+YouTube:  youtube.com/@Hitice
+GitHub:   github.com/Hitice
+```
+
+[![Email](https://img.shields.io/badge/Email-adm.nuvem@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:adm.nuvem@protonmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Hitice-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Hitice)
+[![YouTube](https://img.shields.io/badge/YouTube-Hitice-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Hitice)
+[![GitHub](https://img.shields.io/badge/GitHub-Hitice-181717?style=flat-square&logo=github)](https://github.com/Hitice)
+
+---
+
+```bash
+# funfact
+> "The best code is the one that teaches you something new every time you read it."
+```
+
+![Snake animation](https://github.com/Hitice/Hitice/blob/output/github-contribution-grid-snake-dark.svg)
