@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Executa automaticamente todo dia à meia-noite
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
+  workflow_dispatch: # permite rodar manualmente
   push:
     branches:
       - main
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout do código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Gera a animação Snake 🐍
         uses: Platane/snk@v3
@@ -31,5 +31,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
