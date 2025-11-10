@@ -1,6 +1,6 @@
 <!-- README de perfil GitHub - estilo Terminal Dark -->
 
-# 👾 Hitice (Pavanelli)
+# 👾 Hitice (Pedro Pavanelli)
 
 > _"Driven by code, powered by curiosity."_  
 > Full-stack developer • Maker • Designer • Hacker mindset
