@@ -21,15 +21,17 @@ jobs:
             exit 1
           fi
 
+      - uses: actions/checkout@v4
+
       # Analyses the lines each commit added, across public and private repositories,
-      # and publishes only the totals per language.
+      # and publishes only the totals per language. The action's own commit step fails with
+      # "sha wasn't supplied" in v3.34, so it only renders and the next step commits.
       - name: Languages from the code
         uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_message: "chore: update language metrics"
+          output_action: none
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
@@ -45,3 +47,18 @@ jobs:
           plugin_languages_ignored: html, css, scss, batchfile, dockerfile, mako, makefile, procfile
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 400
+
+      - name: Commit the image
+        run: |
+          sudo cp /metrics_renders/metrics.languages.svg ./metrics.languages.svg
+          sudo chown "$(id -u):$(id -g)" metrics.languages.svg
+          if git diff --quiet -- metrics.languages.svg && git ls-files --error-unmatch metrics.languages.svg >/dev/null 2>&1; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.languages.svg
+          git commit -m "chore: update language metrics"
+          git pull --rebase
+          git push
