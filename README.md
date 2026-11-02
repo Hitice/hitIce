@@ -1,9 +1,9 @@
 <!-- GitHub profile README - terminal dark -->
 
-<h1 align="center">Pedro Henrique Fernandes</h1>
+<h1 align="center">Pedro Fernandes</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Engineer</b><br>
+  <b>Full-Stack Engineer</b><br>
   Building systems that connect code, machines and cryptography with precision and design.
 </p>
 
@@ -21,10 +21,10 @@ hitice@github:~$ whoami
 ```
 
 ```yaml
-role:    Senior full-stack engineer
-ships:   Multi-tenant SaaS, payments, ERP integrations
-designs: ADRs, row-level security, idempotent webhooks
-also:    CNC machines, RPA, GPU cryptography research
+role:        Full-stack engineer
+ships:       Multi-tenant SaaS, payments, ERP integrations
+designs:     ADRs, row-level security, idempotent webhooks
+also:        CNC machines, RPA, GPU cryptography research
 ```
 
 <br>
