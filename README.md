@@ -60,7 +60,12 @@ hitice@github:~$ ls ~/projects --featured
 - **[Avalia Sales](https://sales.avaliaone.com.br/now)** · Reseller network for QR Code and NFC plates: white label, payment split, commissions, renewals and contracts. Tenant isolation by row-level security, 30+ ADRs, 600+ tests.<br><sub>C# · .NET · React · PostgreSQL · Docker</sub>
 - **[Lanhouse Digital](https://github.com/Hitice/LanDigital)** · Storefront of digital services for walk-in customers: PIX payments, AI contract and resume review, ABNT formatting and local PDF generation.<br><sub>Next.js · TypeScript · Supabase · Asaas · Anthropic</sub>
 - **[Kids Wallet](https://hitice.github.io/kids-wallet/)** · Open concept for a Bitcoin vault that only the child can open, at 18, with an AI tutor that grows with them. Working timelock vault, eight public RFCs and a live demo.<br><sub>TypeScript · React · bitcoinjs-lib · Taproot</sub>
-- **[pix-brcode-java](https://github.com/Hitice/pix-brcode-java)** · Generate, parse and validate PIX QR codes. Zero-dependency core, every key type including the 2026 alphanumeric CNPJ, official manual examples reproduced byte for byte.<br><sub>Java 21 · Maven · ZXing</sub>
+- **[pix-brcode-java](https://github.com/Hitice/pix-brcode-java)** · Generate, parse and validate PIX QR codes, with a command line tool that draws the QR in the terminal. Zero-dependency core, every key type including the 2026 alphanumeric CNPJ, official manual examples reproduced byte for byte.<br><sub>Java 21 · Maven · ZXing</sub>
+- **[cnc-gcode-simulator](https://github.com/Hitice/cnc-gcode-simulator)** · Check a CNC program before it reaches the machine: RS274NGC interpreter, cycle time with an acceleration model, soft-limit and safety warnings with the line number, and a 3D viewer that plays the toolpath.<br><sub>Java 21 · JavaFX · picocli</sub>
+
+<p align="center">
+  <img width="760" src="https://raw.githubusercontent.com/Hitice/cnc-gcode-simulator/main/docs/images/viewer.png" alt="cnc-gcode-simulator viewer playing back a pocket program">
+</p>
 - **[secp256k1 GPU search](https://github.com/Hitice/Matrix-Search)** · GPU engine for secp256k1 key search with checkpointing, a controller and a live telemetry dashboard.<br><sub>CUDA · C++ · Go</sub>
 - **[Bitcoin Puzzle analysis](https://github.com/Hitice/BTC-Puzzle-laces)** · Research on the 2015 Bitcoin Puzzle: key generation hypotheses and power audits of the detectors.<br><sub>Python</sub>
 - **[GreenClean](https://github.com/Hitice/greenclean)** · Chrome extension that cleans Gmail with rules and optional AI, keeping message content on the device.<br><sub>JavaScript · Chrome Extensions · Gmail API</sub>
