@@ -28,9 +28,10 @@ jobs:
 
       - uses: actions/checkout@v4
 
-      # Analyses the lines each commit added, across public and private repositories,
-      # and publishes only the totals per language. The action's own commit step fails with
-      # "sha wasn't supplied" in v3.34, so it only renders and the next step commits.
+      # Sums the language bytes of every repository I own, public and private, through the
+      # GitHub API (the in-depth mode cannot clone private repositories in v3.34). The action's
+      # own commit step fails with "sha wasn't supplied" in v3.34, so it only renders and the
+      # next step commits.
       - name: Languages from the code
         uses: lowlighter/metrics@v3.34
         with:
@@ -44,16 +45,12 @@ jobs:
           repositories_affiliations: owner
           commits_authoring: Hitice, hitice, Pedro Henrique Fernandes, Pedro Fernandes, Pavanelli, Pedro Ford, adm.nuvem@protonmail.com
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: no
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 0.5%
           plugin_languages_ignored: html, css, scss, batchfile, dockerfile, mako, makefile, procfile, shell, powershell, json, yaml, markdown, text
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 400
 
       - name: Commit the image
         run: |

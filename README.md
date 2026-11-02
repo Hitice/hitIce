@@ -50,7 +50,7 @@ hitice@github:~$ git log --stat --since=forever | languages
 ```
 
 <p align="center">
-  <img width="760" src="metrics.languages.svg" alt="Languages measured from the lines I committed, public and private repositories">
+  <img width="760" src="metrics.languages.svg" alt="Languages across every repository I own, public and private">
 </p>
 
 ```bash
