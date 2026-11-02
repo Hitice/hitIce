@@ -57,33 +57,10 @@ hitice@github:~$ stack --also
 hitice@github:~$ ls ~/projects --featured
 ```
 
-### Production platforms
-
 - **[Avalia Sales](https://sales.avaliaone.com.br/now)** · Reseller network for QR Code and NFC plates: white label, payment split, commissions, renewals and contracts. Tenant isolation by row-level security, 30+ ADRs, 600+ tests.<br><sub>C# · .NET · React · PostgreSQL · Docker</sub>
-- **[Avalia One](https://avaliaone.com.br)** · One application for a software house's products: installment billing, street sales, ERP and CRM.<br><sub>PHP · Laravel · MySQL</sub>
-- **OrderHub** · Delivers each order to the ERP exactly once: idempotency keys, outbox with retries, signed webhooks.<br><sub>C# · ASP.NET Core · React · PostgreSQL</sub>
-- **Catech ERP** · Internal system of a CNC machine maker, from lead and quote to purchasing, production and billing.<br><sub>Node.js · Express · SQLite</sub>
-
-### Industry and CNC
-
-- **PA Interface** · Mach3 screenset for CNC routers: run and jog, edge and center probing, six-axis diagnostics.<br><sub>Mach3 · interface design</sub>
-- **CNC Machining Calculator** · Spindle speed, feed, power, tool life, deflection and chip load, with a tested calculation engine.<br><sub>TypeScript · React · Vitest</sub>
-- **[Catech 360](https://365-cyan.vercel.app)** · Site for industrial plastics, CNC machining and in-house machines, with a PDF catalog from the same data.<br><sub>Next.js · React · Supabase</sub>
-
-<p align="center">
-  <img width="760" src="assets/pa-interface.png" alt="PA Interface, main screen of the Mach3 screenset">
-</p>
-
-### Cryptography and GPU
-
-- **SECP256 Key Worker** · GPU engine for secp256k1 key search with checkpointing, a controller and a live telemetry dashboard.<br><sub>CUDA · C++ · Go</sub>
-- **Bitcoin Puzzle analysis** · Research on the 2015 Bitcoin Puzzle: key generation hypotheses and power audits of the detectors.<br><sub>Python</sub>
-
-### Automation
-
-- **GreenClean** · Chrome extension that cleans Gmail locally with rules and optional AI. No data leaves the browser.<br><sub>JavaScript · Chrome Extensions · Gmail API</sub>
-- **Detran RPA** · Vehicle lookups on state Detran portals, driven by webhook in and out from n8n.<br><sub>Python · Selenium · n8n</sub>
-- **RPA Engineering Skill** · Rules and reference architecture for deterministic, auditable RPA built with AI assistants.<br><sub>Python · Selenium</sub>
+- **[secp256k1 GPU search](https://github.com/Hitice/Matrix-Search)** · GPU engine for secp256k1 key search with checkpointing, a controller and a live telemetry dashboard.<br><sub>CUDA · C++ · Go</sub>
+- **[Bitcoin Puzzle analysis](https://github.com/Hitice/BTC-Puzzle-laces)** · Research on the 2015 Bitcoin Puzzle: key generation hypotheses and power audits of the detectors.<br><sub>Python</sub>
+- **[GreenClean](https://github.com/Hitice/greenclean)** · Chrome extension that cleans Gmail with rules and optional AI, keeping message content on the device.<br><sub>JavaScript · Chrome Extensions · Gmail API</sub>
 
 <br>
 
