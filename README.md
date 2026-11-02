@@ -71,7 +71,7 @@ hitice@github:~$ ls ~/projects --featured
 - **[Catech 360](https://365-cyan.vercel.app)** · Site for industrial plastics, CNC machining and in-house machines, with a PDF catalog from the same data.<br><sub>Next.js · React · Supabase</sub>
 
 <p align="center">
-  <img width="760" src="https://raw.githubusercontent.com/Hitice/Interface-Mach3/main/Bitmaps/PA%20UI/PA%20UI-01.png" alt="PA Interface, main screen of the Mach3 screenset">
+  <img width="760" src="assets/pa-interface.png" alt="PA Interface, main screen of the Mach3 screenset">
 </p>
 
 ### Cryptography and GPU
