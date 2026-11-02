@@ -46,6 +46,14 @@ hitice@github:~$ stack --core
 - **Bitcoin** script, Taproot and secp256k1, from vault design to GPU key search in CUDA and Go
 
 ```bash
+hitice@github:~$ git log --stat --since=forever | languages
+```
+
+<p align="center">
+  <img width="760" src="metrics.languages.svg" alt="Languages measured from the lines I committed, public and private repositories">
+</p>
+
+```bash
 hitice@github:~$ stack --also
 ```
 
