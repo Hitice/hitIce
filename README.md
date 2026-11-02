@@ -10,86 +10,86 @@
 <p align="center">
   <a href="https://sales.avaliaone.com.br/now"><img src="https://img.shields.io/badge/live-Avalia%20Sales-22c55e?style=flat-square" alt="Avalia Sales live"></a>
   <a href="https://avaliaone.com.br"><img src="https://img.shields.io/badge/Avalia-avaliaone.com.br-7aa2f7?style=flat-square" alt="Avalia"></a>
+  <a href="https://catech.ind.br"><img src="https://img.shields.io/badge/Catech-catech.ind.br-e0af68?style=flat-square" alt="Catech"></a>
   <a href="mailto:adm.nuvem@protonmail.com"><img src="https://img.shields.io/badge/email-adm.nuvem%40protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<br>
 
 ```bash
 hitice@github:~$ whoami
 ```
 
 ```yaml
-role:      Senior full-stack engineer, end to end from database to CNC spindle
-ships:     Multi-tenant SaaS in production, payments with split, ERP integrations
-designs:   Architecture with ADRs, tenant isolation by PostgreSQL row-level security,
-           idempotent writes and webhooks, outbox delivery, CI with security gates
-also:      RPA, CNC machines and Mach3 interfaces, applied cryptography research
+role:    Senior full-stack engineer
+ships:   Multi-tenant SaaS, payments, ERP integrations
+designs: ADRs, row-level security, idempotent webhooks
+also:    CNC machines, RPA, GPU cryptography research
 ```
 
----
+<br>
 
 ```bash
 hitice@github:~$ stack --core
 ```
 
 <p align="center">
-  <img width="560" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,php,laravel,postgres,python&perline=8&theme=dark" alt="C#, .NET, TypeScript, React, PHP, Laravel, PostgreSQL, Python">
+  <img height="56" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,php,laravel,postgres,python&theme=dark" alt="C#, .NET, TypeScript, React, PHP, Laravel, PostgreSQL, Python">
 </p>
 
-| Core | Where it runs |
-| --- | --- |
-| **C# / .NET 10** | ASP.NET Core APIs, EF Core, Worker Services, SignalR, Identity + JWT |
-| **TypeScript / React 19** | Vite, TanStack Query, React Hook Form + Zod, Tailwind 4, PWA with Web NFC |
-| **PHP / Laravel 12** | Production monolith with billing, ERP and CRM modules, Pest, Larastan |
-| **PostgreSQL** | Row-level security per tenant, advisory locks, additive migrations |
-| **Python** | RPA with Selenium 4, data and cryptography research |
+- **C# and .NET** for APIs, workers and real-time with SignalR
+- **TypeScript and React** for dashboards and installable mobile apps
+- **PHP and Laravel** for the platform that runs Avalia in production
+- **PostgreSQL** with tenant isolation, advisory locks and additive migrations
+- **Python** for automation, RPA and research
 
 ```bash
 hitice@github:~$ stack --also
 ```
 
 <p align="center">
-  <img width="440" src="https://skillicons.dev/icons?i=vite,tailwind,nextjs,nodejs,mysql,docker,nginx,githubactions,linux,selenium&perline=10&theme=dark" alt="Vite, Tailwind, Next.js, Node.js, MySQL, Docker, Nginx, GitHub Actions, Linux, Selenium">
+  <img height="36" src="https://skillicons.dev/icons?i=vite,tailwind,nextjs,nodejs,go,cpp,docker,nginx,githubactions,linux,selenium&theme=dark" alt="Vite, Tailwind, Next.js, Node.js, Go, C++, Docker, Nginx, GitHub Actions, Linux, Selenium">
 </p>
 
-```text
-infra     Linux VPS / Docker Compose / Nginx / Let's Encrypt / GitHub Actions
-quality   SonarCloud / CodeQL / Sentry / Playwright + axe / xUnit / Vitest
-payments  Pagar.me v5 (split, marketplace) / Asaas
-hardware  CNC machining / Mach3 / embedded / NFC
-```
-
----
+<br>
 
 ```bash
 hitice@github:~$ ls ~/projects --featured
 ```
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Avalia Sales**](https://sales.avaliaone.com.br/now) | Multi-reseller platform for QR Code and NFC plates in production. White label per reseller, Pix and card with payment split, commissions, renewals, append-only ledger, digital contracts. Tenant isolation by row-level security, 30+ ADRs, 600+ tests on a real database | C# · .NET 10 · React 19 · PostgreSQL 17 |
-| [**Avalia One**](https://avaliaone.com.br) | Laravel platform that runs a software house's products in one application: installment billing, street sales with QR and NFC, ERP and CRM | PHP · Laravel 12 · MySQL |
-| **OrderHub** | Order hub that delivers each order to the ERP exactly once. Idempotency keys, outbox with lease and backoff, HMAC-signed webhooks, operations dashboard | C# · ASP.NET Core · React · PostgreSQL |
-| **PA Interface** | Custom Mach3 screenset for CNC routers: run and jog screen, outside, inside and center probing, six-axis diagnostics with port testing, G and M code reference. Sold as a digital product | Mach3 · screen design |
-| **RPA Engineering Skill** | Reference architecture for deterministic, testable and auditable RPA with Selenium 4, built to steer AI coding assistants | Python · Selenium |
-| **Iris** | Social network with wallet-style login (ECDSA P-256 challenge), end-to-end encrypted secret chat and an append-only coin ledger | JavaScript · Socket.io · Web Crypto |
-| **Bitcoin Puzzle analysis** | Research workspace on the 2015 Bitcoin Puzzle: key generation hypotheses and statistical power audits of the detectors | Python · secp256k1 |
-| [**Catech 360**](https://365-cyan.vercel.app) | Site for industrial plastics, CNC machining and in-house machines, with a PDF catalog generated from the same data | Next.js 16 · React 19 · Tailwind 4 |
+### Production platforms
+
+- **[Avalia Sales](https://sales.avaliaone.com.br/now)** · Reseller network for QR Code and NFC plates: white label, payment split, commissions, renewals and contracts. Tenant isolation by row-level security, 30+ ADRs, 600+ tests.<br><sub>C# · .NET · React · PostgreSQL · Docker</sub>
+- **[Avalia One](https://avaliaone.com.br)** · One application for a software house's products: installment billing, street sales, ERP and CRM.<br><sub>PHP · Laravel · MySQL</sub>
+- **OrderHub** · Delivers each order to the ERP exactly once: idempotency keys, outbox with retries, signed webhooks.<br><sub>C# · ASP.NET Core · React · PostgreSQL</sub>
+- **Catech ERP** · Internal system of a CNC machine maker, from lead and quote to purchasing, production and billing.<br><sub>Node.js · Express · SQLite</sub>
+
+### Industry and CNC
+
+- **PA Interface** · Mach3 screenset for CNC routers: run and jog, edge and center probing, six-axis diagnostics.<br><sub>Mach3 · interface design</sub>
+- **CNC Machining Calculator** · Spindle speed, feed, power, tool life, deflection and chip load, with a tested calculation engine.<br><sub>TypeScript · React · Vitest</sub>
+- **[Catech 360](https://365-cyan.vercel.app)** · Site for industrial plastics, CNC machining and in-house machines, with a PDF catalog from the same data.<br><sub>Next.js · React · Supabase</sub>
 
 <p align="center">
-  <img width="820" src="https://raw.githubusercontent.com/Hitice/Interface-Mach3/main/Bitmaps/PA%20UI/PA%20UI-01.png" alt="PA Interface, main screen of the Mach3 screenset">
+  <img width="760" src="https://raw.githubusercontent.com/Hitice/Interface-Mach3/main/Bitmaps/PA%20UI/PA%20UI-01.png" alt="PA Interface, main screen of the Mach3 screenset">
 </p>
 
----
+### Cryptography and GPU
+
+- **SECP256 Key Worker** · GPU engine for secp256k1 key search with checkpointing, a controller and a live telemetry dashboard.<br><sub>CUDA · C++ · Go</sub>
+- **Bitcoin Puzzle analysis** · Research on the 2015 Bitcoin Puzzle: key generation hypotheses and power audits of the detectors.<br><sub>Python</sub>
+
+### Automation
+
+- **GreenClean** · Chrome extension that cleans Gmail locally with rules and optional AI. No data leaves the browser.<br><sub>JavaScript · Chrome Extensions · Gmail API</sub>
+- **Detran RPA** · Vehicle lookups on state Detran portals, driven by webhook in and out from n8n.<br><sub>Python · Selenium · n8n</sub>
+- **RPA Engineering Skill** · Rules and reference architecture for deterministic, auditable RPA built with AI assistants.<br><sub>Python · Selenium</sub>
+
+<br>
 
 ```bash
-hitice@github:~$ git log --stat --all
+hitice@github:~$ git log --graph
 ```
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hitice&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak">
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hitice/hitIce/output/github-contribution-grid-snake-dark.svg">
