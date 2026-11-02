@@ -34,21 +34,23 @@ hitice@github:~$ stack --core
 ```
 
 <p align="center">
-  <img height="56" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,php,laravel,postgres,python&theme=dark" alt="C#, .NET, TypeScript, React, PHP, Laravel, PostgreSQL, Python">
+  <img height="56" src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,java,php,laravel,postgres,python&theme=dark" alt="C#, .NET, TypeScript, React, Java, PHP, Laravel, PostgreSQL, Python">
 </p>
 
 - **C# and .NET** for APIs, workers and real-time with SignalR
 - **TypeScript and React** for dashboards and installable mobile apps
+- **Java** for libraries, command line tools and JavaFX desktop apps, published with Maven
 - **PHP and Laravel** for the platform that runs Avalia in production
 - **PostgreSQL** with tenant isolation, advisory locks and additive migrations
 - **Python** for automation, RPA and research
+- **Bitcoin** script, Taproot and secp256k1, from vault design to GPU key search in CUDA and Go
 
 ```bash
 hitice@github:~$ stack --also
 ```
 
 <p align="center">
-  <img height="36" src="https://skillicons.dev/icons?i=vite,tailwind,nextjs,nodejs,go,cpp,docker,nginx,githubactions,linux,selenium&theme=dark" alt="Vite, Tailwind, Next.js, Node.js, Go, C++, Docker, Nginx, GitHub Actions, Linux, Selenium">
+  <img height="36" src="https://skillicons.dev/icons?i=vite,tailwind,nextjs,nodejs,supabase,maven,go,cpp,docker,nginx,githubactions,linux,selenium&theme=dark" alt="Vite, Tailwind, Next.js, Node.js, Supabase, Maven, Go, C++, Docker, Nginx, GitHub Actions, Linux, Selenium">
 </p>
 
 <br>
