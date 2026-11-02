@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+    inputs:
+      debug:
+        description: Log every repository the analysis reads
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -32,6 +37,7 @@ jobs:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: none
+          debug: ${{ inputs.debug && 'yes' || 'no' }}
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
